@@ -24,7 +24,7 @@
 ## ✉️ Leetcode Profile:
 [![Annpurna Gupta's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=annpurnagupta&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 ---
-<h2>My Github Status 📊</h2>
+## My Github Status 📊
 ![Annpurna Gupta GitHub Stats](https://github-readme-stats.vercel.app/api?username=annpurna04&show_icons=true&theme=tokyonight) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annpurna04&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annpurna04&theme=github_dark)  
