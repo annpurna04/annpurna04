@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Annpurna Gupta </h2>
 
 
-<img align="right" height="150" src="(https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?  />
+<img align="right" height="150" src=<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="500">
+<br><br>
 
 ---
 <p align="center">
