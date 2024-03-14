@@ -8,7 +8,9 @@
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>         </p>        
+<a href="https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>         </p> 
+
+
 <img align="right" height="300"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 ---
 
