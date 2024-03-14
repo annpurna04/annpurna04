@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋! My name is Annpurna Gupta </h2>
 
 <br><br>
-
 <br><br>
-
 
 ---
 
