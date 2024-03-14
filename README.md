@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" clear="both" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="auto" />
+<img align="center" alt="GIF" clear="both" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%" height="auto" />
 <h2 align="left">Hi 👋! My name is Annpurna Gupta </h2>
 
 <br><br>
