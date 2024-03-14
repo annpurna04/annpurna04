@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>         </p>        
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
 ## ✉️ Leetcode Profile:
 [![Annpurna Gupta's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=annpurnagupta&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 ---
