@@ -18,6 +18,8 @@
 * ⚡ Fun fact: **Never Give Up**.
 * 💬 ask me about anything, i am happy to help;
 * 👨‍💻 My Portfolio: ****
+
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
 ## ✉️ Leetcode Profile:
 [![Annpurna Gupta's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=annpurnagupta&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
@@ -54,7 +56,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cprogramming/cprogramming.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
