@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Annpurna Gupta </h2>
 
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA0NDgzODMsIm5iZiI6MTcxMDQ0ODA4MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE0VDIwMjgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1ZmM2YzVjNjFkOWVhOTYyOGNmNTIxNzE2ZjhhNDVhMWUwMzU0NmZiZGY4NmNjN2UzN2Q4YmY5MWM2MDhmNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OA_vwAOx9nMDl7Vdr36cn9dtdBaoEUze949k1VO6JMc)"  />
+<img align="right" height="150" src="(https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?  />
 
 ---
 <p align="center">
