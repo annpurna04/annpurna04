@@ -28,8 +28,8 @@
 * 💬 ask me about anything, i am happy to help;
 * 👨‍💻 My Portfolio: ****
 
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=annpurna04&label=Profile%20views&color=0e75b6&style=flat" alt="annpurna04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annpurna04&label=Profile%20views&color=0e75b6&style=flat" alt="annpurna04" /> </p>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
 ## ✉️ Leetcode Profile:
 [![Annpurna Gupta's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=annpurnagupta&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
