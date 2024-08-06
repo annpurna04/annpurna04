@@ -31,6 +31,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annpurna04&label=Profile%20views&color=0e75b6&style=flat" alt="annpurna04" /> </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
+<h2 align="left">Languages and Tools
+ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+</br>
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,python,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,postman,react,tailwind,vscode" alt="My Skills">
+
+---
 ## ✉️ Leetcode Profile:
 [![Annpurna Gupta's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=annpurnagupta&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 ---
@@ -57,19 +63,3 @@
 
 ---
 <br />
-<h2 align="left">Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<code><img height="50" src="https://miro.medium.com/max/1400/1*b0TtGI6gWFLltL1QkRxVdg.png"></code>
-
----
