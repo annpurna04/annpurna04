@@ -34,7 +34,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
 <!-- Profile Visitors Count -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<p align="center"> <img src="https://profile-counter.glitch.me/{anup-maurya}/count.svg" alt="anupmaurya" /></p>
+<p align="center"> <img src="https://profile-counter.glitch.me/{annpurna04}/count.svg" alt="annpurna" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div>
