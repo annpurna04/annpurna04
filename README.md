@@ -1,13 +1,15 @@
 <img align="center" alt="GIF" clear="both" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%" height="auto" />
-<h2 align="left">Hi 👋! My name is Annpurna Gupta </h2>
-<br>
 
----
-
-
+<img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="150px">  <h2 align="center"> I am Annpurna Gupta </h2> 
 <p align="center">
-<a href="https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>         </p> 
-
+<h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annpurna" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__annpurna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annpurna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/annpurnagupta041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annpurna" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/annpurnagupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="annpurna" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/annpurnagu9qx3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sharmashrtu6h/" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -28,9 +30,14 @@
 * 💬 ask me about anything, i am happy to help;
 * 👨‍💻 My Portfolio: ****
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annpurna04&label=Profile%20views&color=0e75b6&style=flat" alt="annpurna04" /> </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=annpurna04&theme=onedark)](https://github.com/annpurna04/github-profile-trophy)
+<!-- Profile Visitors Count -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<p align="center"> <img src="https://profile-counter.glitch.me/{anup-maurya}/count.svg" alt="anupmaurya" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+<div>
 <h2 align="left">Languages and Tools
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 </br>
@@ -54,12 +61,5 @@
 
 ---
 
-<h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
 </br>
-<p align="center">
-<a href="(https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/)" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4"></a>
-      <a href="mailto:annpurnagupta040401@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4"></a> </p>
-<br />
 
----
-<br />
