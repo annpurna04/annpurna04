@@ -20,7 +20,7 @@
 
 
 ## About Me
-* 🌍  I'm based in Kanpur, India
+* 🌍  I'm from Kanpur, India
 * 🔭 I’m currently working on various Applications.
 * 🌱 I’m currently learning NodeJS, Data Structures & Algorithms.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
